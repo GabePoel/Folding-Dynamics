@@ -1,3 +1,3 @@
 # Folding-Dynamics
 
-For computational models of folding, action origami, etc.
+For computational models of folding, action origami, and aperiodic crease patterns.
